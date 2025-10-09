@@ -67,5 +67,3 @@ Check out the course that inspired this repository: [PyTorch for Deep Learning &
 I hope you find this repository helpful, and I'm always open to feedback and suggestions!
 
 This video provides a comprehensive introduction to PyTorch, covering the fundamental concepts and walking through the process of building and training neural networks, which is highly relevant to the user's repository.
-
-http://googleusercontent.com/youtube_content/0
